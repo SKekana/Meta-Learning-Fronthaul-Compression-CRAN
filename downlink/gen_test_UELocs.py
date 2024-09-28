@@ -3,8 +3,8 @@ from funcs import *
 from scipy.io import savemat, loadmat
 
 test_size = 2000
-M = 8
-B = 7
+M = 32
+B = 17
 B2Bdist = 0.15
 center_radius = 0
 RRH_height = 0.03

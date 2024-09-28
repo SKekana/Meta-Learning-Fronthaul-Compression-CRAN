@@ -49,7 +49,7 @@ val_size = 2000
 test_size = 2000
 batch_per_epoch = 50
 num_epochs = 0
-initial_run = 0
+initial_run = 1
 
 
 class FCNN(nn.Module):

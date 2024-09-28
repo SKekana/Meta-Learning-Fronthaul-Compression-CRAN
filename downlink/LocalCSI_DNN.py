@@ -48,7 +48,7 @@ batch_size = 500
 val_size = 2000
 test_size = 2000
 batch_per_epoch = 50
-num_epochs = 0
+num_epochs = 5
 initial_run = 1
 
 
